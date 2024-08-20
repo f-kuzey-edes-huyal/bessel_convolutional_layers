@@ -1,4 +1,4 @@
-# bessel_convolutional_layers
+# Bessel Convolutional Layers
   
 This repository contains the Pytorch version of the Bessel Convolutional Neural Nets. [Delchevalerie et al.](https://proceedings.neurips.cc/paper/2021/hash/f18224a1adfb7b3dbff668c9b655a35a-Abstract.html) published it in 2021. The Tensorflow version was included with their paper.
 
